@@ -2,7 +2,7 @@
     package="com.example.realtime">
    <application
        android:usesCleartextTraffic="true"
-        android:label="realtime"
+        android:label="realtimeandinternet"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

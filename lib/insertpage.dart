@@ -63,7 +63,7 @@ class _insertpageState extends State<insertpage> {
   @override
   Widget build(BuildContext context) {
     return WillPopScope(child: Scaffold(
-      appBar: AppBar(title: Text("Insertpage")),
+      appBar: AppBar(title: Text("Insertpage & Check Internet")),
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(8.0),

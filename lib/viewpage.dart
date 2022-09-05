@@ -72,7 +72,7 @@ class _viewpageState extends State<viewpage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("View Page"),
+        title: Text("View Page & Check Internet"),
       ),
       body: l.length > 0
           ? ListView.builder(
